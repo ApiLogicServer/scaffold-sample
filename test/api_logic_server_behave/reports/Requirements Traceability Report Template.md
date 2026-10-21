@@ -7,7 +7,7 @@
 
 # Requirements Traceability Report
 
-This report shows requirements, the rules created from them, and the tests created from those rules.
+This report shows requirements, the rules created from them, and the tests created from those rules.  Tailor this to suit your organization standards.
 
 <!-- text: cover -->
 This report is generated from the project's own files: its requirements, the rules and integrations built from them, and the tests that check them. Nothing in it is written by hand. Open **Background** (below the summary) for what the terms mean, how to read the report, and what it does and does not establish.
