@@ -1,6 +1,6 @@
 # scaffold-sample
 
-A minimal sample scaffold for `genai-logic create --from_git`.
+A minimal sample scaffold for `genai-logic create --from_git`.  Alter to fit your organizations standards.
 
 ## What this is
 
